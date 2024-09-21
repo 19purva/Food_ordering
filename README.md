@@ -16,3 +16,5 @@ Picture this: You navigate through a visually stunning interface, where each dis
 But the magic doesn't stop there! With the power of JavaScript and ReactJS, adding your favorite dishes to the cart is as easy as a click of a button. Watch as the cart dynamically updates, displaying your selections with flair and finesse. And if you happen to change your mind, fear not! Removing items from your cart is just as effortless, ensuring that your ordering experience remains stress-free and enjoyable.
 
 In essence, our food ordering website isn't just about placing an order—it's about embarking on a culinary adventure. So come, indulge your senses, and let us take you on a journey of flavor, convenience, and pure gastronomic bliss!
+![Screenshot (337)](https://github.com/user-attachments/assets/1d445725-8698-4393-838a-3dbccd0107b1)
+![Screenshot (336)](https://github.com/user-attachments/assets/bb3d3b11-a57a-4766-b742-071af3df77eb)
