@@ -18,3 +18,5 @@ But the magic doesn't stop there! With the power of JavaScript and ReactJS, addi
 In essence, our food ordering website isn't just about placing an order—it's about embarking on a culinary adventure. So come, indulge your senses, and let us take you on a journey of flavor, convenience, and pure gastronomic bliss!
 
 ![Screenshot (336)](https://github.com/user-attachments/assets/bb3d3b11-a57a-4766-b742-071af3df77eb)
+![Screenshot (332)](https://github.com/user-attachments/assets/bc1fa37a-53f2-4ab6-aab2-8ef234e81eeb)
+![Screenshot (333)](https://github.com/user-attachments/assets/7360568d-6875-4652-92a5-abeac9c210e7)
