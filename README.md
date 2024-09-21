@@ -20,3 +20,6 @@ In essence, our food ordering website isn't just about placing an order—it's a
 ![Screenshot (336)](https://github.com/user-attachments/assets/bb3d3b11-a57a-4766-b742-071af3df77eb)
 ![Screenshot (332)](https://github.com/user-attachments/assets/bc1fa37a-53f2-4ab6-aab2-8ef234e81eeb)
 ![Screenshot (333)](https://github.com/user-attachments/assets/7360568d-6875-4652-92a5-abeac9c210e7)
+![Screenshot (334)](https://github.com/user-attachments/assets/d30335de-eef1-461f-a204-bcc1e11580be)
+![Screenshot (335)](https://github.com/user-attachments/assets/3d9f2348-cfc8-45ae-83eb-7fe4cbbcddfa)
+![Screenshot (337)](https://github.com/user-attachments/assets/e203237b-7e51-49d6-8d48-54931e8f2fdb)
